@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    int x[5]; // Declare an array with size of 5 element
+    int x[5]; // Declare an array with size of 5 element //
 
     cout<<"Enter 5 random unordered number \n"; // Ask user to enter the number 
     for(int i = 0; i < 5; i++){
